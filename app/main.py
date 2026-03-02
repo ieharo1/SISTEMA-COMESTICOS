@@ -23,7 +23,7 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(
     title="MasterChefEC",
-    description="Ecommerce de comestibles para mujeres",
+    description="Ecommerce de cosméticos para mujeres",
     version="1.0.0",
     lifespan=lifespan,
 )

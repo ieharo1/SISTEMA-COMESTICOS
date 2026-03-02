@@ -1,12 +1,12 @@
-# MasterChefEC - Ecommerce de Comestibles
+# MasterChefEC - Ecommerce de Cosméticos
 
-Ecommerce de comestibles enfocado a mujeres con diseño moderno y elegante.
+Ecommerce de cosméticos enfocado a mujeres con diseño moderno y elegante.
 
 ---
 
 ## 📝 Descripción
 
-Sistema completo de comercio electrónico para comestibles con:
+Sistema completo de comercio electrónico para cosméticos con:
 - Catálogo de productos
 - Carrito de compras
 - Gestión de pedidos
